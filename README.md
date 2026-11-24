@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/paelra/u-gentle-badger-68-make-the-judge-smile-9228676d/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 [![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/paelra/u-gentle-badger-68-make-the-judge-smile-9228676d/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 
-A tiny Node program that writes one warm line about a small good thing that happened today — Mrs. Alvarez from 3B, a bowl of soup at 7:12, and a sick dog whose tail finally thumped again.
+This little Node program preserves one kind moment from today in a single line — a neighbour from 3B arriving at 7:12 with soup, and a poorly dog perking up enough to thump his tail again.
 
 ## Run it
 
